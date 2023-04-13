@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SuiteFoundations Study Test</title>
+    <link rel="stylesheet" href="Foundations.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <main>
+        <h1>Welcome to My Website</h1>
+        <h1 id="TestProgress"></h1>
+
+        <button type="submit" onclick="startTest()" id="TestStart">Start Test</button>  
+        <button type="submit" onclick="nextQuestion()" id="NextQuestion">Next</button>
+        <button type="submit" onclick="previousQustion()" id="PreviousQuestion">Previous</button>
+
+        <h2 id="QuestionText"></h2>
+        <button type="submit" onclick="showAnswer()" id="ShowAnswer" hidden="true">Show Answer</button>
+        <button id="HideAnswer" onclick="hideAnswer()" hidden="true">Hide Answer</button>
+        <h2 id="AnswerText" hidden="true"></h2>
+        
+
+    </main>
+	<script src="Foundations.js"></script>
+  </body>
+</html>

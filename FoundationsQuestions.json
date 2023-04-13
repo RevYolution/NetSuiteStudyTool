@@ -1,0 +1,262 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "body": "How can the impact of intercompany purchases and sales be offset?",
+        "answer": "Post journals to an elimination subsidiary",
+        "asked": "false"
+      },
+      {
+        "id": 2,
+        "body": "Where is the purchase approval limit (amount) defined for supervisors?",
+        "answer": "On the Employee record",
+        "asked": "false"
+      },
+      {
+        "id": 3,
+        "body": "Which setting allows returned items to be counted as part of inventory?",
+        "answer": "Recieve Return > Check Restock checkbox ",
+        "asked": "false"
+      },
+      {
+        "id": 4,
+        "body": "Which use case requires the use of a report rather than a search?",
+        "answer": "Web Query enabled spreadsheet",
+        "asked": "false"
+      },
+      {
+        "id": 5,
+        "body": "Which two statements are true about the functionality in Report Builder? A.) Users can customize data through Edit Layout Page. B.) User can export Reports as an Excel Web Query. C.) Users can add custom HTML inot column headers. D.) Users can add formula fields to columns.",
+        "answer": "A and B",
+        "asked": "false"
+      },
+      {
+        "id": 6,
+        "body": "What is the first step an Admin should take after being notified that an employee will be terminated?",
+        "answer": "Remove System Access for Employee",
+        "asked": "false"
+      },
+      {
+        "id": 7,
+        "body": "Which structure will allow the tracking of consolidated financial reports by a legal entity?",
+        "answer": "Subsidiaries",
+        "asked": "false"
+      },
+      {
+        "id": 8,
+        "body": "What is the impact of enabling the Advanced Shipping feature?",
+        "answer": "Fullfillment is sparated from invoicing",
+        "asked": "false"
+      },
+      {
+        "id": 9,
+        "body": "What is the simplest way to compare Roles?",
+        "answer": "Show Role Differences",
+        "asked": "false"
+      },
+      {
+        "id": 10,
+        "body": "Which two methods can be used to restrict access to a file from the file cabinet?",
+        "answer": "Restrict Folder to Group and Mark Folder as Private",
+        "asked": "false"
+      },
+      {
+        "id": 11,
+        "body": "Which three actions can be accomplished with a CSV Import? A.) Delete Customer lead records. B.) Add Transaction records. C.) Add and or Update items. D.) Update existing entity records",
+        "answer": "B, C, D",
+        "asked": "false"
+      },
+      {
+        "id": 12,
+        "body": "How can a customer's custom negotiated sales price for items be set up to default on sales transactions?",
+        "answer": "Assign a price level on the customer record",
+        "asked": "false"
+      },
+      {
+        "id": 13,
+        "body": "What are three unique features to Financial Report Builder? a.) Sections may be shared between finacial reports. b.) Sections may have a highlighted results. c.) Sections are defined by additional sorts, orrided layout sorts. d.) Sections may have specific sorting. e.) Sections may contain subsidiary context.",
+        "answer": "a, b, d",
+        "asked": "false"
+      },
+      {
+        "id": 14,
+        "body": "Which two options for defining custom roles will restric the pool of recourds that a role can access? a.) Employee Restrictions. b.) Location Restrictions. c.) Restricted Form. d.) IP Address Restrictions",
+        "answer": "A and B",
+        "asked": "false"
+      },
+      {
+        "id": 15,
+        "body": "Which feature requires a user to agree to the Mass Messaging Application Terms of Service?",
+        "answer": "Mail Merge",
+        "asked": "false"
+      },
+      {
+        "id": 16,
+        "body": "Where can the NeSuite Account Number be found?",
+        "answer": "SuiteAnswers > Contact Support by Phone",
+        "asked": "false"
+      },
+      {
+        "id": 17,
+        "body": "Which option must be selected to allow sales reps and managers to adjust the statuses of opportunities when saving forecasts?",
+        "answer": "Allow Setting Status in Forecast Editor",
+        "asked": "false"
+      },
+      {
+        "id": 18,
+        "body": "What is the purpose of checking the Internal Only check box on a Case Form?",
+        "answer": "To email the comments in the Reply window to copied employees",
+        "asked": "false"
+      },
+      {
+        "id": 19,
+        "body": "Which three Customer Payment Methods are supported in NetSuite?",
+        "answer": "Electronicn Funds Transfer, Credit Card Processing for Sales Orders, and PayPal Express for Web Stores",
+        "asked": "false"
+      },
+      {
+        "id": 20,
+        "body": "What are three attributes of saved searches? a. Reveals hierarchical groupings. b. Are the basis for custom metrics. c. Can have critical data highlighted. d. Provices a dynamic list of results. e. Good for point-in-time analysis",
+        "answer": "B, C, D",
+        "asked": false
+      },
+      {
+        "id": 21,
+        "body": "Which three statments are true about creating a Custom Role? a. They can be started from scratch. b. The can be started from a Standard Role. c. They can be edited after they are created. d. They can be deleted while they are assigned.",
+        "answer": "a, b, c",
+        "asked": false
+      },
+      {
+        "id": 22,
+        "body": "Why might user A not see user B's Calendar?",
+        "answer": "User B's calendar is not shared as Public",
+        "asked": false
+      },
+      {
+        "id": 23,
+        "body": "What allows more than 10,000 messages to be sent in a single email campaign?",
+        "answer": "Campaign Domain",
+        "asked": false
+      },
+      {
+        "id": 24,
+        "body": "What is a recommended practice when adding a user?",
+        "answer": "Assign a custom role",
+        "asked": false
+      },
+      {
+        "id": 25,
+        "body": "A user just closed the record for a customer name Company A by mistake.What is the recommended method to go directly back to the Customer record for Company A?",
+        "answer": "Use Recent Records",
+        "asked": false
+      },
+      {
+        "id": 26,
+        "body": "Which action can be taken to optimize NetSuites performance in a browser?",
+        "answer": "Use the smallest portlet level refresh",
+        "asked": false
+      },
+      {
+        "id": 27,
+        "body": "What information is displayed in a pop-up window after double clicking the NetSuite logo?",
+        "answer": "The PET (Page, Email, Time) page",
+        "asked": false
+      },
+      {
+        "id": 28,
+        "body": "Which two statements are true regarding billable line items on invoices? a. Vendors can enter timesheets. b. Purchase Orders must be Billed before they can be Invoiced to Customers. c. Items must have a Sales Price fill in to appear on the Items to be Billed tab. d. Employees can bill time to customers in different subsidiaries",
+        "answer": "b and d",
+        "asked": false
+      },
+      {
+        "id": 29,
+        "body": "Which statement is true about inventory transactions?",
+        "answer": "The inventory worksheet can be used to create opening balances for items",
+        "asked": false
+      },
+      {
+        "id": 30,
+        "body": "How does enabling the Advanced Receiving feature change the Item Receipt function in NetSuite?",
+        "answer": "It separates the Item Recipt from the Vendor Bill",
+        "asked": false
+      },
+      {
+        "id": 31,
+        "body": "Which statement is true about NetSuite's ecommerce functionality?",
+        "answer": "Shopping cart automatically saves sales orders in the system",
+        "asked": false
+      },
+      {
+        "id": 32,
+        "body": "Where does an Administrator turn on Custom Records?",
+        "answer": "Enable Features",
+        "asked": false
+      },
+      {
+        "id": 33,
+        "body": "What are three default CRM List types? a. Contact Role b. Win/Loss Reason c. Contact Type d. Buying Reason e. Quota Category",
+        "answer": "a, b, d",
+        "asked": false
+      },
+      {
+        "id": 34,
+        "body": "In a Saved Search, what are two ways to get the transaction date to display as month and year?",
+        "answer": "Use the month function on the Result field or Create a Formula Field using a SQL date formatting function",
+        "asked": false
+      },
+      {
+        "id":35,
+        "body": "In a OneWorld account, which Two Steps are required to make items taxable?",
+        "answer": "Create tax schedules for groups of Items and Assign a tax schedule on the item record",
+        "asked": false
+      },
+      {
+        "id": 36,
+        "body": "How does Multi-Location Inventory affect costing?",
+        "answer": "Costs are calculated at the location level",
+        "asked": false
+      },
+      {
+        "id": 37,
+        "body": "Where can statuses be mapped to actions for the progress of Lead to Prospect to Customer?",
+        "answer": "Sales Preferences",
+        "asked": false
+      },
+      {
+        "id": 38,
+        "body": "Which Sales Order transaction form can generate a Cash Sale upon billing?",
+        "answer": "Standard Sales Order",
+        "asked": false
+      },
+      {
+        "id": 39,
+        "body": "Which configuration would allow a user to see only child items?",
+        "answer": "From comapay set up endable features, under items and inbentory set to only show last sub item",
+        "asked": false
+      },
+      {
+        "id": 40,
+        "body":"Which three Item Types can be defined for Purchase, Resale, or Sale?",
+        "answer": "Non-inventory item, Service and other charge",
+        "asked": false
+      },
+      {
+        "id": 41,
+        "body": "What are three attributes of a custom report?",
+        "answer": "Are available for Web Query, Are the basis for custom report snapshots and PRovide a point in time analysis",
+        "asked": false
+      },
+      {
+        "id": 42,
+        "body": "What are three methods to access Help in NetSuite?",
+        "answer": "Help link in top right of screen, Type Help with any keyword in Global Search, Click the field label next to a field",
+        "asked": false
+      },
+      {
+        "id": 43,
+        "body": "Which three pieces of information are contained in the New Release Portlet?",
+        "answer": "New Feature Overview, Release Preview Test Plan and Release Notes",
+        "asked": false
+      }
+    ]
+  }
