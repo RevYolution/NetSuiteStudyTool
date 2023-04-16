@@ -15,7 +15,7 @@
       {
         "id": 3,
         "body": "Which setting allows returned items to be counted as part of inventory?",
-        "answer": "Recieve Return > Check Restock checkbox ",
+        "answer": "Receive Return > Check Restock checkbox ",
         "asked": "false"
       },
       {
@@ -26,7 +26,7 @@
       },
       {
         "id": 5,
-        "body": "Which two statements are true about the functionality in Report Builder? A.) Users can customize data through Edit Layout Page. B.) User can export Reports as an Excel Web Query. C.) Users can add custom HTML inot column headers. D.) Users can add formula fields to columns.",
+        "body": "Which two statements are true about the functionality in Report Builder? A.) Users can customize data through Edit Layout Page. B.) User can export Reports as an Excel Web Query. C.) Users can add custom HTML into column headers. D.) Users can add formula fields to columns.",
         "answer": "A and B",
         "asked": "false"
       },
@@ -45,7 +45,7 @@
       {
         "id": 8,
         "body": "What is the impact of enabling the Advanced Shipping feature?",
-        "answer": "Fullfillment is sparated from invoicing",
+        "answer": "Fulfillment is separated from invoicing",
         "asked": "false"
       },
       {
@@ -74,13 +74,13 @@
       },
       {
         "id": 13,
-        "body": "What are three unique features to Financial Report Builder? a.) Sections may be shared between finacial reports. b.) Sections may have a highlighted results. c.) Sections are defined by additional sorts, orrided layout sorts. d.) Sections may have specific sorting. e.) Sections may contain subsidiary context.",
+        "body": "What are three unique features to Financial Report Builder? a.) Sections may be shared between financial reports. b.) Sections may have a highlighted results. c.) Sections are defined by additional sorts, orrided layout sorts. d.) Sections may have specific sorting. e.) Sections may contain subsidiary context.",
         "answer": "a, b, d",
         "asked": "false"
       },
       {
         "id": 14,
-        "body": "Which two options for defining custom roles will restric the pool of recourds that a role can access? a.) Employee Restrictions. b.) Location Restrictions. c.) Restricted Form. d.) IP Address Restrictions",
+        "body": "Which two options for defining custom roles will restrict the pool of records that a role can access? a.) Employee Restrictions. b.) Location Restrictions. c.) Restricted Form. d.) IP Address Restrictions",
         "answer": "A and B",
         "asked": "false"
       },
@@ -111,18 +111,18 @@
       {
         "id": 19,
         "body": "Which three Customer Payment Methods are supported in NetSuite?",
-        "answer": "Electronicn Funds Transfer, Credit Card Processing for Sales Orders, and PayPal Express for Web Stores",
+        "answer": "Electronic Funds Transfer, Credit Card Processing for Sales Orders, and PayPal Express for Web Stores",
         "asked": "false"
       },
       {
         "id": 20,
-        "body": "What are three attributes of saved searches? a. Reveals hierarchical groupings. b. Are the basis for custom metrics. c. Can have critical data highlighted. d. Provices a dynamic list of results. e. Good for point-in-time analysis",
+        "body": "What are three attributes of saved searches? a. Reveals hierarchical groupings. b. Are the basis for custom metrics. c. Can have critical data highlighted. d. Provides a dynamic list of results. e. Good for point-in-time analysis",
         "answer": "B, C, D",
         "asked": false
       },
       {
         "id": 21,
-        "body": "Which three statments are true about creating a Custom Role? a. They can be started from scratch. b. The can be started from a Standard Role. c. They can be edited after they are created. d. They can be deleted while they are assigned.",
+        "body": "Which three statements are true about creating a Custom Role? a. They can be started from scratch. b. The can be started from a Standard Role. c. They can be edited after they are created. d. They can be deleted while they are assigned.",
         "answer": "a, b, c",
         "asked": false
       },
@@ -177,7 +177,7 @@
       {
         "id": 30,
         "body": "How does enabling the Advanced Receiving feature change the Item Receipt function in NetSuite?",
-        "answer": "It separates the Item Recipt from the Vendor Bill",
+        "answer": "It separates the Item Receipt from the Vendor Bill",
         "asked": false
       },
       {
@@ -231,7 +231,7 @@
       {
         "id": 39,
         "body": "Which configuration would allow a user to see only child items?",
-        "answer": "From comapay set up endable features, under items and inbentory set to only show last sub item",
+        "answer": "From company set up enable features, under items and inventory set to only show last sub item",
         "asked": false
       },
       {
@@ -256,6 +256,348 @@
         "id": 43,
         "body": "Which three pieces of information are contained in the New Release Portlet?",
         "answer": "New Feature Overview, Release Preview Test Plan and Release Notes",
+        "asked": false
+      },
+      {
+        "id": 44,
+        "body": "What is the property of a Case Rule?",
+        "answer": "It is assigned to a group of Support Reps",
+        "asked": false
+      },
+      {
+        "id": 45,
+        "body": "Which statement is true about native approval and routing options for purchasing (without workflow)?",
+        "answer": "Purchase Requests are routed to the Purchase Approver base on approval limits set on a transaction record",
+        "asked": false
+      },
+      {
+        "id": 46,
+        "body": "Which two functionalities are controlled by users assigned role? a.) Fax Integration. b.) The password change frequency. c.) Available forms. d.) Features Enables e.) The Center type",
+        "answer": "c and d",
+        "asked": false
+      },
+      {
+        "id": 47,
+        "body": "As long as Allow Child Record Editing option is enabled for the record type, child records can be editable in parent records. True or False?",
+        "answer": "True",
+        "asked": false
+      },
+      {
+        "id": 48,
+        "body": "The Global Search can be found on any NetSuite page. True or False?",
+        "answer": "True",
+        "asked": false
+      },
+      {
+        "id": 49,
+        "body": "Where is the option to change Forecast from Monthly to Quarterly?",
+        "answer": "Sales Preferences",
+        "asked": false
+      },
+      {
+        "id": 50,
+        "body": "Which two transactions can be refunded without first requiring a Credit Memo. a.) Invoice b.) Unapplied Customer Deposit c.) Applied Customer Deposit d.) Cash Sale",
+        "answer": "b and d",
+        "asked": false
+      },
+      {
+        "id": 51,
+        "body": "What is the effect of using an inventory worksheet on a LIFO costed item?",
+        "answer": "LIFO cost will default to the last purchase price",
+        "asked": false
+      },
+      {
+        "id": 52,
+        "body": "A Cash sale can be created when",
+        "answer": "A walk in customer pays with a credit card and all items are in stock",
+        "asked": false
+      },
+      {
+        "id": 53,
+        "body": "A Sales Order must be created for an order to ship out properly. True or False?",
+        "answer": "True",
+        "asked": false
+      },
+      {
+        "id": 54,
+        "body": "When is it possible to delete an employee record?",
+        "answer": "After accidentally creating a duplicate employee record",
+        "asked": false
+      },
+      {
+        "id": 55,
+        "body": "What is the most popular search method to find almost anything?",
+        "answer": "Using the Global Search",
+        "asked": false
+      },
+      {
+        "id": 56,
+        "body": "Which setting will ensure that an invoice is generated rather than a Cash Sale when a Sales Order is billed?",
+        "answer": "Check the Invoice checkbox on the Standard Sales Order form",
+        "asked": false
+      },
+      {
+        "id": 57,
+        "body": "Which two pieces of information are visible by default on the My Login Audit portlet on a dashboard?",
+        "answer": "Previous Login and Login Failure Today",
+        "asked": false
+      },
+      {
+        "id": 58,
+        "body": "Which feature gives warehouse and accounting departments separate processes for working with purchases order?",
+        "answer": "Advanced Inventory Management",
+        "asked": false
+      },
+      {
+        "id": 59,
+        "body": "Which statement is true about NetSuites ecommerce functionality?",
+        "answer": "Integration with the accounting module required WSDK codes",
+        "asked": false
+      },
+      {
+        "id": 60,
+        "body": "What is a consequence of a user overriding a Vendor Credit Limit Warning message?",
+        "answer": "New Purchase Orders cannot be created for the vendor",
+        "asked": false
+      },
+      {
+        "id": 61,
+        "body": "What are two ways a Saved Search can be restricted from users?",
+        "answer": "Saved Search Role Settings and Audience Search REstrictions",
+        "asked": false
+      },
+      {
+        "id": 62,
+        "body": "What are two options in Accounting Preferences",
+        "answer": "Require manual input of quantities when fulfilling orders and Bill the customer before shipping the product to them",
+        "asked": false
+      },
+      {
+        "id": 63,
+        "body": "Where can a user navigate to identify NetSuites current system performance within a browser",
+        "answer": "Navigate to https://status.netsuite.com to display the NS-stat report",
+        "asked": false
+      },
+      {
+        "id": 64,
+        "body": "Which two actions increase a browsers system performance?",
+        "answer": "Use the smallest level of refresh and Clear the cache settings",
+        "asked": false
+      },
+      {
+        "id": 65,
+        "body": "How can NetSuite be updated to incorporate revised US state tax rates?",
+        "answer": "Rerun the tax import for the affected state",
+        "asked": false
+      },
+      {
+        "id": 66,
+        "body": "What are two ways to bring up a new sales order?",
+        "answer": "Locating the sales order quick link and navigating the dashboard tabs",
+        "asked": false
+      },
+      {
+        "id": 67,
+        "body": "How can an accountant see all report by period?",
+        "answer": "Set report by period to all reports in Accounting Preferences",
+        "asked": false
+      },
+      {
+        "id": 68,
+        "body": "Which three actions can be accomplished with a Mass Update?",
+        "answer": "Update Order line items, Send Subscriptions messages and Reassign salesperson territories.",
+        "asked": false
+      },
+      {
+        "id": 69,
+        "body": "Which three fields are required on the Standard Lead Form in OneWorld for a company?",
+        "answer": "Email, Company Name, and Address",
+        "asked": false
+      },
+      {
+        "id": 70,
+        "body": "What are two ways to control and limit NetSuite navigation?",
+        "answer": "User-assigned role and Global preferences",
+        "asked": false
+      },
+      {
+        "id": 71,
+        "body": "Where does NetSuite provide PDF user guides for specific functional areas?",
+        "answer": "In SuiteAnswers",
+        "asked": false
+      },
+      {
+        "id": 72,
+        "body": "Which statement is true about using Financial Report Builder?",
+        "answer": "Users can customize section-level sorting and classification grouping",
+        "asked": false
+      },
+      {
+        "id": 73,
+        "body": "Which two statements are true about NetSuites ecommerce functionality?",
+        "answer": "Full design option require the use of HTML and Websites using design templates all look the same",
+        "asked": false
+      },
+      {
+        "id": 74,
+        "body": "Which two steps are required to add a user?",
+        "answer": "Assign defined roles to users and Define user roles",
+        "asked": false
+      },
+      {
+        "id": 75,
+        "body": "Which feature allows the tracking of inventory and pricing of items separately based on items options?",
+        "answer": "Matrix Items",
+        "asked": false
+      },
+      {
+        "id": 76,
+        "body": "How many major release Cycles does NetSuite have per year?",
+        "answer": "2",
+        "asked": false
+      },
+      {
+        "id": 77,
+        "body": "Where are the definitions of Role Permissions found?",
+        "answer": "In the Role, on the Permissions tab",
+        "asked": false
+      },
+      {
+        "id": 78,
+        "body": "Which two statements are true about the Delete All data function?",
+        "answer": "It deletes all transaction data, but leaves one user in place and Only the Administrator role has access to it",
+        "asked": false
+      },
+      {
+        "id": 79,
+        "body": "Which Report Builder option allows users users to assign access to a custom report?",
+        "answer": "Edit Filters",
+        "asked": false
+      },
+      {
+        "id": 80,
+        "body": "What is the best way to search for a customer in a sales order if you do not know their customer number?",
+        "answer": "Using the Last Name and Zip Code",
+        "asked": false
+      },
+      {
+        "id": 81,
+        "body": "When can Multi-Location Inventory control be turned off?",
+        "answer": "After location transfers of inventory to the base warehouse",
+        "asked": false
+      },
+      {
+        "id": 82,
+        "body": "Which tree statements are true about the security authentication of users passwords?",
+        "answer": "Users can change their password via the Settings portlet, Passwords have strength ratings and cannot be changed until the criterion is met and Password criteria is setup by the system administrator",
+        "asked": false
+      },
+      {
+        "id": 83,
+        "body": "When should the Store Value box on a custom field be unchecked?",
+        "answer": "When including a hyperlink, to see that link on the form",
+        "asked": false
+      },
+      {
+        "id": 84,
+        "body": "Which two permissions controlling access are supported in NetSuite Roles?",
+        "answer": "Create but do not Edit and View but do not Edit",
+        "asked": false
+      },
+      {
+        "id": 85,
+        "body": "The Order is billed during the Fulfillment Process. True or False?",
+        "answer": "False",
+        "asked": false
+      },
+      {
+        "id": 86,
+        "body": "What is the recommended practice for reporting on Accounts Payable by office?",
+        "answer": "Create a separate Chart of Accounts for each office",
+        "asked": false
+      },
+      {
+        "id": 87,
+        "body": "What are two ways a custom form can be assigned as the roles Preferred Form?",
+        "answer": "When customizing the role, select the form on the Forms tab and When customizing the form, select the role on the Roles tab",
+        "asked": false
+      },
+      {
+        "id": 88,
+        "body": "A customer receives an email with the tracking information when the order ahs been marked Shipped. True or False?",
+        "answer": "True",
+        "asked": false
+      },
+      {
+        "id": 89,
+        "body": "Which two statements are true about saved searches and/or custom reports?",
+        "answer": "Saved searches can provide comparative date ranges and Custom reports provide highlighting",
+        "asked": false
+      },
+      {
+        "id": 90,
+        "body": "What are two ways classifications can be tied to a sales transaction?",
+        "answer": "Department is only selected at the line level and Location can be assigned the header or at the line level",
+        "asked": false
+      },
+      {
+        "id": 91,
+        "body": "Enable Accounting Features: Enabling this feature creates the system-generated Unbilled Receivables account.",
+        "answer": "A/R (Accounts Receivable)",
+        "asked": false
+      },
+      {
+        "id": 92,
+        "body": "The three main steps during an order fulfillment are",
+        "answer": "Picking, Packing, Shipping",
+        "asked": false
+      },
+      {
+        "id": 93,
+        "body": "What are two considerations when establishing elimination subsidiaries in a OneWorld account?",
+        "answer": "Every child subsidiary must have a matching elimination sub and Only journal entities are permitted",
+        "asked": false
+      },
+      {
+        "id": 94,
+        "body": "Taxes have just been configured for a new tax jurisdiction. After billing a customer in the new jurisdiction, no tax was calculated as expected. What are three possible reasons the tax was not calculated?",
+        "answer": "Sales Tax lookup is unchecked for the Nexus, Item Schedule Nexus is not defined as taxable or The tax jurisdiction Nexus is missing from the subsidiary",
+        "asked": false
+      },
+      {
+        "id": 95,
+        "body": "How many times can a user attempt to access NetSuite before being locked out?",
+        "answer": "5",
+        "asked": false
+      },
+      {
+        "id": 96,
+        "body": "When creating criteria for a Saved Search, what are two reasons to use expressions?",
+        "answer": "To perform parenthetical select logic in the selection criteria and To use And/Or logic in selection criteria",
+        "asked": false
+      },
+      {
+        "id": 97,
+        "body": "Which two statements are true about setting up subsidiaries in NetSuite?",
+        "answer": "It is difficult to change the subsidiary hierarchy after creation and Every OneWorld account must have elimination subsidiaries",
+        "asked": false
+      },
+      {
+        "id": 98,
+        "body": "This is a dynamic data display window. It contains hyperlinks, present metrics, and displays list of info. Select one of the following:",
+        "answer": "Overview Page",
+        "asked": false
+      },
+      {
+        "id": 99,
+        "body": "Which two Payment Types can only be used to pay Vendors?",
+        "answer": "Electronic Payments and ACH",
+        "asked": false
+      },
+      {
+        "id": 100,
+        "body": "An assistant has edit access to a managers calendar. Which activities can the assistant perform in the managers calendar?",
+        "answer": "View, change and decline events",
         "asked": false
       }
     ]
